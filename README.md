@@ -23,6 +23,6 @@ A RAG pipeline built from the parts up: chunking, hashed TF-IDF embeddings, BM25
 
 `Python · numpy · information retrieval · 66 tests`
 
-**🌍 [portfolio](https://github.com/sydneygahunia-wq/portfolio)** — scroll-driven 3D globe  
+**🌍 [portfolio](https://github.com/sydneygahunia-wq/portfolio)** — scroll-driven 3D globe portfolio  
 
 `JavaScript · GSAP · Lenis · Canvas`
