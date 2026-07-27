@@ -1,8 +1,8 @@
 # Hi, I'm Sydney 👋
 
-Computer science student in Toronto. I build things that turn messy real-world data into something a person can actually act on — usually because I needed the thing myself first.
+Systems Design Engineering student at the University of Waterloo. I enjoy building solutions that turn messy, real-world data into something people can actually understand and act on.
 
-Currently a co-op student on the **Innovation Excellence** team at **Humber River Health**, where I work on AI assistants for hospital IT and switchboard workflows.
+During my co-op term with the Innovation Excellence team at Humber River Health, I worked on AI assistants designed to improve hospital IT support and switchboard workflows.
 
 ---
 
@@ -26,21 +26,3 @@ A RAG pipeline built from the parts up: chunking, hashed TF-IDF embeddings, BM25
 **🌍 [portfolio](https://github.com/sydneygahunia-wq/portfolio)** — scroll-driven 3D globe  
 
 `JavaScript · GSAP · Lenis · Canvas`
-
----
-
-### How I like to build
-
-**Test the part that fails quietly.** A parser bug crashes and announces itself. A statistics bug returns a plausible wrong number that nobody questions. That's where the tests go.
-
-**Say what the system doesn't know.** Both my data projects refuse rather than guess — askdocs won't answer a question its documents can't support, and the health analyzer reports what it skipped so a summary never quietly covers a third of the file.
-
-**Write down the trade-off.** Brute-force vector search beats an ANN index below a million vectors, and my README says so — including where it stops being true.
-
----
-
-### Currently learning
-
-Agentic architectures, retrieval evaluation, and how far you can get with classical IR before reaching for a neural model.
-
-📫 **sydneygahunia@gmail.com**
